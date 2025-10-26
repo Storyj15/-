@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UI Scene/Title.unity
+    guid: 7fbd399023544a540826c849243f72e0
+  - enabled: 1
+    path: Assets/Scenes/UI Scene/Menu.unity
+    guid: 40ceb4e398841a5408793b0dffba3e22
+  - enabled: 1
+    path: Assets/Scenes/UI Scene/LordingScene.unity
+    guid: 422e799a656343344a1b9f552d0047f0
+  - enabled: 1
+    path: Assets/Scenes/UI Scene/FirstDialogueScene.unity
+    guid: 9a9b172b88599604aac16e5b726a57fe
+  - enabled: 1
+    path: Assets/Scenes/UI Scene/DialogueScene.unity
+    guid: ae2c6ceff60feda4d9dca1258f9aeb2f
+  - enabled: 1
+    path: Assets/Scenes/DuelScene/NormalDuel.unity
+    guid: 430016d766c193c418664f63bec4e25b
+  - enabled: 1
+    path: Assets/Scenes/UI Scene/Ending.unity
+    guid: ab84fdef2ce257244b79f28d761b9af8
+  m_configObjects: {}
